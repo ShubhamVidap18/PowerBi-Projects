@@ -2,11 +2,23 @@
 
 Welcome to my **Power BI Projects Repository** — a collection of interactive dashboards that showcase my ability to analyze data, visualize insights, and tell meaningful stories using **Microsoft Power BI**.  
 
-These projects reflect my expertise in **data cleaning, transformation (Power Query), DAX calculations, KPIs, and dashboard design** — turning raw data into actionable insights.  
+These projects reflect my expertise in **data cleaning, transformation (Power Query), DAX calculations, KPIs, Navigation buttons and dashboard design** — turning raw data into actionable insights.  
 
 ---
 
 ## 🚀 Projects Overview  
+
+
+### 🍕 **Pizza Sales Dashboard**  
+**Objective:** Monitor pizza sales performance and customer preferences to enhance business strategy.  
+**Key Insights:**  
+- Daily, weekly, and monthly sales performance tracking  
+- Best-selling pizza types, sizes, and categories  
+- Revenue contribution & order type (dine-in, delivery, takeaway)  
+- Average order value and customer purchase trends  
+**Skills Used:** Data Cleaning, Power Query Transformations, DAX Measures, Time Intelligence, and Interactive Charts  
+
+---
 
 ### 🎬 **Netflix Dashboard**  
 **Objective:** Analyze Netflix content trends to understand platform diversity and audience preferences.  
