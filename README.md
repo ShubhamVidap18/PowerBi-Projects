@@ -20,16 +20,18 @@ These projects reflect my expertise in **data cleaning, transformation (Power Qu
 
 ---
 
-### 🛒 **Blinkit Grocery Dashboard**
-**Objective:** Analyze grocery sales performance, delivery efficiency, and customer behavior to optimize operations and marketing strategies.
+### 🛒 **Blinkit Grocery Dashboard**  
+**Objective:**  
+Analyze grocery sales performance, delivery efficiency, and customer behavior to optimize operations and marketing strategies.  
 
-**Key Insights:**
+**Key Insights:**  
+- Sales distribution across product categories and cities  
+- Average delivery time and order frequency analysis  
+- Top-selling items and most profitable product segments  
+- Customer purchase behavior and regional demand insights  
 
--Sales distribution across product categories and cities
--Average delivery time and order frequency analysis
--Top-selling items and most profitable product segments
--Customer purchase behavior and regional demand insights
-**Skills Used:** Power Query, DAX Calculations, KPI Cards, Slicers, Interactive Visuals, and Performance Analysis
+**Skills Used:**  
+Power Query, DAX Calculations, KPI Cards, Slicers, Interactive Visuals, and Performance Analysis  
 
 ---
 
