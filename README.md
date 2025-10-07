@@ -24,6 +24,7 @@ These projects reflect my expertise in **data cleaning, transformation (Power Qu
 **Objective:** Analyze grocery sales performance, delivery efficiency, and customer behavior to optimize operations and marketing strategies.
 
 **Key Insights:**
+
 -Sales distribution across product categories and cities
 -Average delivery time and order frequency analysis
 -Top-selling items and most profitable product segments
