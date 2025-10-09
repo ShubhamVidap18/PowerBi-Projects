@@ -17,7 +17,7 @@ These projects reflect my expertise in **data cleaning, transformation (Power Qu
 - Discount impact on revenue and sales contribution by channel  
 - Integrated navigation buttons, drill-throughs, and dynamic slicers for seamless interactivity  
 
-**Skills Used:** Data Cleaning | Power Query Transformations | DAX Calculations | Time Intelligence | KPI Cards | Drill-Through Navigation | Dynamic Slicers | Interactive Visuals  
+**Skills Used:** Data Cleaning, Power Query Transformations, DAX Calculations, Time Intelligence, KPI Cards, Drill-Through Navigation, Dynamic Slicers, Interactive Visuals  
 
 ---
 
@@ -81,7 +81,7 @@ Analyze Adidas sales performance, product demand, and customer preferences to im
 - Customer purchase behavior and seasonal demand insights  
 
 **Skills Used:**  
-Data Cleaning | Power Query Transformations | DAX Measures | Time Intelligence | Interactive Visuals | Performance Analysis  
+Data Cleaning, Power Query Transformations, DAX Measures, Time Intelligence, Interactive Visuals, Performance Analysis  
 
 ---
 
