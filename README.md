@@ -7,7 +7,6 @@ These projects reflect my expertise in **data cleaning, transformation (Power Qu
 ---
 
 ## 🚀 Projects Overview  
-
 ### 🛍️ **Shopify E-Commerce Sales Analytics**  
 **Objective:** Analyze Shopify sales performance, customer behavior, and product profitability to support data-driven business and marketing strategies.  
 
