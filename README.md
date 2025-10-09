@@ -59,7 +59,6 @@ Power Query, DAX Calculations, KPI Cards, Slicers, Interactive Visuals, and Perf
 ---
 
 ## 👟 Adidas Sales Dashboard  
-
 **Objective:**  
 Analyze Adidas sales performance, product demand, and customer preferences to improve sales strategy and profitability.  
 
