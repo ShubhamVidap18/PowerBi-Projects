@@ -8,6 +8,19 @@ These projects reflect my expertise in **data cleaning, transformation (Power Qu
 
 ## 🚀 Projects Overview  
 
+### 🛍️ **Shopify E-Commerce Sales Analytics**  
+**Objective:** Analyze Shopify sales performance, customer behavior, and product profitability to support data-driven business and marketing strategies.  
+
+**Key Insights:**  
+- Sales and revenue trends across products, categories, and time periods  
+- Top-performing items, underperforming segments, and profit margin analysis  
+- Customer order frequency, retention, and regional demand insights  
+- Discount impact on revenue and sales contribution by channel  
+- Integrated navigation buttons, drill-throughs, and dynamic slicers for seamless interactivity  
+
+**Skills Used:** Data Cleaning | Power Query Transformations | DAX Calculations | Time Intelligence | KPI Cards | Drill-Through Navigation | Dynamic Slicers | Interactive Visuals  
+
+---
 
 ### 🍕 **Pizza Sales Dashboard**  
 **Objective:** Monitor pizza sales performance and customer preferences to enhance business strategy.  
