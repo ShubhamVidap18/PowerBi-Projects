@@ -58,6 +58,22 @@ Power Query, DAX Calculations, KPI Cards, Slicers, Interactive Visuals, and Perf
 
 ---
 
+## 👟 Adidas Sales Dashboard  
+
+**Objective:**  
+Analyze Adidas sales performance, product demand, and customer preferences to improve sales strategy and profitability.  
+
+**Key Insights:**  
+- Sales performance tracking across regions, products, and time periods  
+- Top-selling product categories and revenue contribution analysis  
+- Profit margin trends and discount impact evaluation  
+- Customer purchase behavior and seasonal demand insights  
+
+**Skills Used:**  
+Data Cleaning | Power Query Transformations | DAX Measures | Time Intelligence | Interactive Visuals | Performance Analysis  
+
+---
+
 ### 💳 **Credit Card Dashboard**  
 **Objective:** Provide a 360° view of customer transactions and credit card performance metrics.  
 **Key Insights:**  
