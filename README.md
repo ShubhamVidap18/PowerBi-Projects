@@ -4,7 +4,6 @@ Welcome to my **Power BI Projects Repository** — a collection of interactive d
 
 These projects reflect my expertise in **data cleaning, transformation (Power Query), DAX calculations, KPIs, Navigation buttons and dashboard design** — turning raw data into actionable insights.  
 
----
 
 ## 🚀 Projects Overview  
 ### 🏬 **SuperStore Sales Analytics Dashboard**  
