@@ -7,6 +7,20 @@ These projects reflect my expertise in **data cleaning, transformation (Power Qu
 ---
 
 ## 🚀 Projects Overview  
+### 🏬 **SuperStore Sales Analytics Dashboard**  
+**Objective:** Analyze sales and profitability performance across regions, categories, and customer segments to enhance business decision-making.  
+
+**Key Insights:**  
+- Regional and category-wise sales and profit trends  
+- Top-performing products and customer segments  
+- Discount impact on profit and revenue performance  
+- Ship mode efficiency and order-to-delivery timeline analysis  
+- Interactive filters and drill-throughs for detailed insights  
+
+**Skills Used:** Data Cleaning, Power Query Transformations, DAX Measures, Data Modeling, Time Intelligence, KPI Cards, and Interactive Navigation.
+
+---
+
 ### 🛍️ **Shopify E-Commerce Sales Analytics**  
 **Objective:** Analyze Shopify sales performance, customer behavior, and product profitability to support data-driven business and marketing strategies.  
 
