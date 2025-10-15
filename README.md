@@ -6,6 +6,25 @@ These projects reflect my expertise in **data cleaning, transformation (Power Qu
 
 
 ## 🚀 Projects Overview  
+## 📊 **Mirae Asset Sharekhan Analytics Dashboard**
+**🎯 Objective:**  
+Develop an advanced financial analytics dashboard to visualize and analyze investment performance across multiple asset classes — including equities, mutual funds, bonds, and ETFs — for smarter, data-driven investment decisions.
+
+**💡 Key Insights:**  
+- Asset allocation and diversification overview across portfolios  
+- Top-performing assets and sectors by ROI and growth trends  
+- Mutual fund and bond performance analysis with real-time KPIs  
+- Market upturns/downturns visualization and sector comparison  
+- Comprehensive portfolio performance tracking with AI-driven insights  
+- Interactive filters, dynamic drill-throughs, and category-based analytics
+  
+**🧠 Skills Used:**  
+Power BI, DAX Measures, Power Query Transformations, Data Modeling,  
+Time Intelligence Functions, Financial KPIs, Advanced Charts & Visuals,  
+and Interactive Dashboard Navigation.
+
+---
+
 ### 🏬 **SuperStore Sales Analytics Dashboard**  
 **Objective:** Analyze sales and profitability performance across regions, categories, and customer segments to enhance business decision-making.  
 
